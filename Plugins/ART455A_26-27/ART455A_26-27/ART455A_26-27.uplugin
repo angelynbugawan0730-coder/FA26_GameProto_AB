@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ART455A_26-27",
+	"Description": "This content-only plugin houses the assets needed for the ART 455A game prototype 26-27 AY",
+	"Category": "Other",
+	"CreatedBy": "Erik Carpenter",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": true,
+	"Installed": true
+}
